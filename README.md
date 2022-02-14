@@ -279,3 +279,337 @@ horizon 3
 - OcDs - true omni-channel experience
 - truMoBi- security/ctrl	
 - motivate - game based solution/training to assocs
+
+- AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA
+
+omni-channel retailer
+- ability to buy anywhere, fulfill anywhere and return anywhere
+- web, mobile, catalog, call center, telecommunication, stores, kiosk
+- retailer to impress customers
+
+different retail channels
+stores - 
+	look and feel
+	sales assoc
+	cash payments
+	get merch after buy 
+computer - 
+	convenience
+	alternatives/substitute
+	inexhaustible info on products
+	personalization
+mobile - 
+	access info while on the move
+	inexhaustible info on products
+	personalization, targeted promotion, real time updates, location based offers
+classic mail order/catalog
+	- convenience
+	- order any day at any time
+	- not restricted to a place with internet connection
+teleshopping
+	- mass adv channel
+	- least expensive when comes to generating direct sale
+	- virtual exhibition of products
+kiosk- 
+	place in your retail store or high traffic remote loc
+	convenient service such as loyalty card progs
+	increase consumer awareness
+	promo opportunity through coupon printing
+social
+	interact with customer directly
+	deep customer engagement
+	crowd sourcing
+	inc revenue by amplification
+	customer service
+call centers
+	- ivr based voice driven auto-attendant
+	contact customer for satisfaction surveys
+	bill reminder calls
+	info on store locs, hours, directions
+	customers can check on order status
+	personalized sales service
+
+evolution of omnichannel
+	single channel - single touch point
+	multi channel - multiple touch point acting independently
+	cross channel integration - linking diff channel
+	omni channel - customers experience brand instead of channel
+
+always addressable customer
+1 multiple devices - owns and uses at least 3 connected devices
+2 frequent access - goes online multiple times per day
+3 multiple locations - use internet from multiple physical locations, includes on the go
+
+customer omnichannel expectations
+51% tracking order to be important
+50% product reco based on their profile and buying pattern
+45% buy product in store and have it shipped home for free
+21% buy one from store and pick up in another store of same retailer
+42% shop in retailer provides inventory info online 
+
+retailer perspective
+- not a choice but a need
+1 increase wallet share - opportunities to cross sell with pick up in store
+2 cross channel inv optimization - national based retailers can avoid discounting
+3 omni channel customers are more profitable than single channel customers
+4 brand value - leverage existing brand value to maintain pricing power and also boost brand visibility
+
+omnichannel experience
+in store experience - mobile device in shop to enchance shopping experience
+integrated inventory - inventory visibility in different channels
+mobile integration - mobile device, qr codes(?) 
+
+benefits- customer
+- convenience (anywheres)
+- wider coverage of products
+- loyalty awards accross different channels
+- more info in form of reco and reviews
+- wide choice of time, loc, and methods of shopping
+- personalized shopping
+- real time updates on price and promo
+
+benetifs- retailer
+- increase customer satisfaction
+- up selling & cross selling
+- improved demand planning & in-stock availability
+- returns processing
+- on-time deliveries
+
+- insights in customer behaviour
+- decrease in customer acquisition cost
+- increase average order size 
+- inc order volumne
+- dec customer service costs
+- dec operation/fulfillment cost
+
+challenges in omnichannel retailer
+1 marketing - targeted mktg, brand dilution, cross-channel impacts
+2 point of service - consistency
+3 warehouse and vendor mgmt - order fulfillment and returns mgmt
+4 risk management - info sec, protecting customer data
+5 inventory mgmt - inv reservation
+6 merchandising - integ of online and offline catalogs
+7 customer rel - unified customer view, customer tracking
+8 change management - siloed structure
+
+key considerations omnichannel 
+1 business consideration
+	- leverage unique strengths 
+	- understand user expectations
+	- how store assoc have to change
+2 org consideration
+	- change in org struct
+	- specific P&L statement
+	- alloc the sales credit across channels
+3 ppl consideration
+	- incentive
+	- revamp policies
+	- training and enablement
+4 proc cosideration
+	- merchandising, pricing,
+	- inv management
+	- fulfillment, returns, customer service etc.
+
+omnichannel solution framework
+1. merch management system
+2. campaign mgmt system
+3. digital content
+4. asset management
+5. order mgmt system
+6. customer relationship mgmt
+7. business intelligence analytics
+8. customer service
+
+merchandising - channels:
+	store
+	kiosky
+	web	
+	mobile
+	call center
+
+merch system
+	category mgmt
+	assortment planning
+	sku mgmt 
+	forecasting
+	replenishment
+	vendor mgmt
+	space planning
+	pricing
+other systems
+	inv mgmt
+	content mgmt
+	promo mgmt
+	analytics
+
+content & digital asset mgmt
+	- provide customer wants to see or hear
+	- product info
+	- price info
+	- promo info
+	- delivery info
+	- faq, articles downloads
+
+content & digital asset mgmt features
+	access control
+	version control	
+	library
+	content repo	
+	publish functionality
+
+personalization
+	- no one size fits all
+
+customer management & marketing
+	- campaign mgmt
+	- digitial mrking
+	- branding
+	- cross channel marketig
+
+payment flow
+
+future of payment
+	players
+	- apple, paypal, google wallet, square wallet
+	pro
+	- convenience
+	- new user experience
+	- removes need for intermediaries	
+	cons
+	- large investment
+	- few tech
+
+customer service
+	order mgmt
+	- order status, order searching, [create, edit, cancel order], order history, checkout, schedule order
+	user mgmt
+	- search user, user password, [create, edit user]
+	self service
+	- legal, T&C, privacy policy, FAQ, knowledge base
+	other contact methods
+	- email, chat/call, sms, co-browse, fax, inbound call
+
+mobile tools 
+
+social tools - generates massive amts of data
+
+omnichannel analytics frameworks - cloud based repo, generate actionable insights
+
+
+cognizant in omnichannel
+- rethink the store
+	take the store to the shopper
+	enable flexible response
+	from point of sale to service
+- reinvent shopper interaction
+	improve shopper exp
+	empower store employee
+	support social network
+	engage through  tech
+- rewire supply chain
+	integrate/ quick and single view
+	deliver perfect order 
+
+maturity analysis
+	help you continuously improve
+	mobile tech has changed
+	assess your impl
+	enable you to stay ahead of competition
+	help prio features
+
+
+EVALTM
+approach
+	examine - current e commerce capability
+	equate - compare vs benchmark
+	envision - roadmap
+
+
+	measure - assess current channel capability
+	match - compare vs benchmark
+	mobilize - identify opportunity for improvement
+
+CCIC assessment - leverage on channel
+approach
+	analyze 
+	proritize
+	recommend
+
+eCommerce replatforming	
+phase - discover, define, decide
+	1. competitive analysis framework
+	2. vendor evaluation framework
+	3. capability analysis framework
+
+ Loyalty - ROI calc
+
+program costs
+1. operational
+2. capital
+
+revenue streams
+1. redemption margins
+2. breakage
+3. inc sales
+4. revenue from partners
+5. cross and upsell
+
+dashboards
+1. general showing
+2. financial kpi
+3. loyalty
+
+social media eval
+a. competitor benchmarking
+b. gap identification
+c. reality check on social strategy
+
+1. identify parameters
+2. validate
+3. bucket into dimension
+4. ahp - pairwise comparison
+5. scoring
+6. eval and total scoring
+7. analysis charts 
+
+solution (Omni-Channel Digital Services)
+
+1. adv content mgmt
+2. eCommerce and POS
+3. multi-channel
+4. sys integ
+5. order mgmt
+6. internationalization
+7. technology stack
+8. infra support
+9. crm & campaign
+10. advance search
+
+assertServ
+	1 digital repo - file/docs
+	2 search - recos?
+	3 workflows - role based
+	4 collab - history tracking, reporting
+	5 integ - api based
+	6 security - sso
+	7 ease of use - setup
+
+
+building thought leadership
+- white papers
+- arcticles and bylines
+- conferences
+
+case studies
+- u.k. omni channel plan and roadmap
+- ecommerce strategy and roadmap
+- global logistics re-engr
+- ecommerce roadmap and use cases
+- order mgmt and channel integ
+- geographic market expansion
+- u.k. omnichannel capability expansion
+- omnichannel strategy and store integ
+- asia pacific retain tx
+
+loyalty program
+- promo, redemption and analytics
